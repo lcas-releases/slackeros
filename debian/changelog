@@ -1,0 +1,27 @@
+ros-kinetic-slackeros (0.0.2-0xenial) xenial; urgency=high
+
+  * cleaned
+  * launch file and configurable port
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Sun, 16 Sep 2018 00:00:00 -0000
+
+ros-kinetic-slackeros (0.0.1-0xenial) xenial; urgency=high
+
+  * more bugfixes
+  * deps
+  * deps
+  * use argparse
+  * with params
+  * rostopics
+  * tidy
+  * dynamic typing support
+  * support for Empty Service
+  * first working version
+  * init
+  * Initial commit
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Sun, 16 Sep 2018 00:00:00 -0000
+
+
