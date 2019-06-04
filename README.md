@@ -1,3 +1,26 @@
+## slackeros (kinetic) - 0.2.0-2
+
+The packages in the `slackeros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic slackeros` on `Tue, 04 Jun 2019 09:12:44 -0000`
+
+The `slackeros` package was released.
+
+Version of package(s) in repository `slackeros`:
+
+- upstream repository: https://github.com/marc-hanheide/slackeros.git
+- release repository: https://github.com/lcas-releases/slackeros.git
+- rosdistro version: `0.2.0-1`
+- old version: `0.2.0-1`
+- new version: `0.2.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## slackeros (kinetic) - 0.2.0-1
 
 The packages in the `slackeros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic slackeros` on `Sun, 02 Jun 2019 15:03:43 -0000`
